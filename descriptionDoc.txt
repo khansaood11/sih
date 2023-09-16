@@ -54,9 +54,3 @@ Purpose: The portal keeps users informed about important updates, changes in edu
 
 Purpose: The portal is designed to accommodate a large user base while ensuring the security of user information, curriculum designs, and sensitive data. Security measures are implemented to protect data from unauthorized access and breaches.
 In summary, the AICTE's unified portal aims to bring together educational experts and curriculum designers to collaborate on curriculum development. It provides a comprehensive set of tools and features to streamline the process, improve the quality of education, and ensure data security. This initiative has the potential to enhance the technical education standards in India by promoting effective curriculum design and collaboration among stakeholders.
-
-
-hello 100rab
-
-
-hello pooji
