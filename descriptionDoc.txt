@@ -1,7 +1,5 @@
 #   Problem Statement:
 
-The All India Council for Technical Education (AICTE) is responsible for formulating and maintaining the curriculum standards for technical education in India. A unified portal is required to collaborate with educational experts, curriculum designers to provide the functionality and designing a model curriculum for all the Institutes. The main functionality provide by portal are; 1. User Registration and Authentication: Allow users (educators, curriculum developers, administrators) to create accounts and authenticate their identity to access the portal's features. 2. Dashboard and User Profiles: Provide a personalized dashboard for each user, displaying relevant information and options based on their role and preferences. Users can manage their profiles, track progress, and access saved curriculum designs. 3. Curriculum Design Tools: Offer intuitive tools and templates for curriculum design, including the ability to define course objectives, outline modules, specify learning outcomes, and create assessment methods. Users should be able to organize and structure curriculum content efficiently. 4. Resource Repository: Maintain a repository of educational resources, such as textbooks, articles, videos, and interactive materials, categorized by subjects and topics. Users can search, access, and incorporate these resources into their curriculum designs. 5. Collaboration and Feedback: Facilitate collaboration among users by allowing them to invite others to review and provide feedback on their curriculum designs. Incorporate features like commenting, version control, and document sharing to enhance collaboration and streamline the review process. 6. Analytics and Reporting: Provide analytics and reporting features to track and analyze the effectiveness of curriculum designs. This can include metrics like student performance, course completion rates, and assessment outcomes. Generate reports and visualizations to aid decision- making and improvement. 7. Notifications and Updates: Notify users about important updates, changes in educational policies, or new resources available on the portal. Allow users to subscribe to relevant topics or receive notifications based on their preferences. 8. Scalability and Security: Design the portal to handle a large user base and ensure data security. Implement appropriate security measures to protect user information, curriculum designs, and sensitive data.
-
     The All India Council for Technical Education (AICTE) is responsible for formulating and maintaining the curriculum standards 
     for technical education in India. A unified portal is required to collaborate with educational experts, curriculum designers to 
     provide the functionality and designing a model curriculum for all the Institutes. The main functionality provide by portal are;
@@ -25,54 +23,3 @@ The All India Council for Technical Education (AICTE) is responsible for formula
      on the portal. Allow users to subscribe to relevant topics or receive notifications based on their preferences. 
      8. Scalability and Security: Design the portal to handle a large user base and ensure data security. 
      Implement appropriate security measures to protect user information, curriculum designs, and sensitive data.
-
-
-
-
-The All India Council for Technical Education (AICTE) is an organization responsible for regulating and setting standards for technical education in India. In order to streamline curriculum development and collaboration among educators, curriculum designers, and administrators, AICTE is seeking to create a unified portal with several key functionalities:
-
-1. User Registration and Authentication:
-
-Purpose: This feature allows individuals involved in the curriculum development process, such as educators and administrators, to create user accounts and verify their identity.
-2. Dashboard and User Profiles:
-
-Purpose: After logging in, users are provided with personalized dashboards. These dashboards offer relevant information and tools based on the user's role and preferences. Users can manage their profiles, track their progress, and access their saved curriculum designs.
-3. Curriculum Design Tools:
-
-Purpose: This section of the portal provides user-friendly tools and templates for designing curricula. Users can define course objectives, outline modules, specify learning outcomes, and establish assessment methods. This functionality helps educators efficiently structure and organize curriculum content.
-4. Resource Repository:
-
-Purpose: The portal maintains a repository of educational resources, such as textbooks, articles, videos, and interactive materials. These resources are categorized by subjects and topics. Users can search for, access, and incorporate these resources into their curriculum designs, enhancing the quality of education.
-5. Collaboration and Feedback:
-
-Purpose: Collaboration is facilitated through features that allow users to invite others to review and provide feedback on their curriculum designs. Features like commenting, version control, and document sharing streamline the collaboration process and help improve curriculum quality.
-6. Analytics and Reporting:
-
-Purpose: This functionality enables users to track and analyze the effectiveness of curriculum designs. It provides metrics such as student performance, course completion rates, and assessment outcomes. Reports and visualizations aid in decision-making and continuous improvement of curricula.
-7. Notifications and Updates:
-
-Purpose: The portal keeps users informed about important updates, changes in educational policies, and the availability of new resources. Users can subscribe to relevant topics or receive notifications tailored to their preferences.
-8. Scalability and Security:
-
-Purpose: The portal is designed to accommodate a large user base while ensuring the security of user information, curriculum designs, and sensitive data. Security measures are implemented to protect data from unauthorized access and breaches.
-In summary, the AICTE's unified portal aims to bring together educational experts and curriculum designers to collaborate on curriculum development. It provides a comprehensive set of tools and features to streamline the process, improve the quality of education, and ensure data security. This initiative has the potential to enhance the technical education standards in India by promoting effective curriculum design and collaboration among stakeholders.
-
-------------------------------------------------------------------------------
-
-REQUIREMENTS for a unified portal that can be used by various stakeholders to design and maintain the curriculum standards for technical education in India. The portal should provide the following features:
-
-· User Registration and Authentication: Users can create accounts and log in to access the portal’s features.
-
-· Dashboard and User Profiles: Users can view and manage their personal information, progress, and saved curriculum designs on their dashboard.
-
-· Curriculum Design Tools: Users can use tools and templates to create and organize curriculum content, such as course objectives, modules, learning outcomes, and assessment methods.
-
-· Resource Repository: Users can access and use a collection of educational resources, such as textbooks, articles, videos, and interactive materials, categorized by subjects and topics.
-
-· Collaboration and Feedback: Users can invite others to review and provide feedback on their curriculum designs, using features like commenting, version control, and document sharing.
-
-· Analytics and Reporting: Users can track and analyze the effectiveness of their curriculum designs, using metrics like student performance, course completion rates, and assessment outcomes. Users can also generate reports and visualizations to aid decision-making and improvement.
-
-· Notifications and Updates: Users can receive notifications about important updates, changes in educational policies, or new resources available on the portal. Users can also subscribe to relevant topics or receive notifications based on their preferences.
-
-· Scalability and Security: The portal should be able to handle a large user base and ensure data security. The portal should implement appropriate security measures to protect user information, curriculum designs, and sensitive data.
